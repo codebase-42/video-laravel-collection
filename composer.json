@@ -1,0 +1,17 @@
+{
+    "name": "codebase42/video-laravel-collection",
+    "authors": [
+        {
+            "name": "Leo Oberle",
+            "email": "leocello@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "illuminate/collections": "^11.40"
+    }
+}
