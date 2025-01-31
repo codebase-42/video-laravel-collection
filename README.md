@@ -29,13 +29,4 @@ As Collections no Laravel são muito mais do que simples listas ou arrays de val
 
 🚀 Inscreva-se no canal Codebase 42 para mais conteúdos sobre PHP, Laravel e desenvolvimento de software em geral!
 
-0:00 - Abertura
-0:40 - Exemplo com arrays
-2:55 - Arrays simples x Collections, sort, map, each, push
-8:15 - Arrays associativos x Collections, each associativo, put
-10:45 - Arrays aninhados x Collections, sort com callback, reduce
-16:55 - Documentação oficial
-18:31 - Conclusão
-
-
 #php #laravel #collections #array #lista #programação #dev #code #codebase42
